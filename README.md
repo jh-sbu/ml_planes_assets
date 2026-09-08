@@ -4,8 +4,9 @@ Blender source files and exported visual assets for the airframes defined in the
 `ml_planes` simulator live in this repository. Aerodynamic configuration,
 controller tuning, and simulation code remain in `ml_planes`.
 
-No aircraft assets have been created yet. [PLANES.md](PLANES.md) is the inventory and
-tracks the asset required for each currently shipped plane configuration.
+The [generic jet](planes/generic_jet/README.md) has a basic Blender model, GLB export,
+and rendered preview. [PLANES.md](PLANES.md) tracks the assets for each currently
+shipped plane configuration.
 
 ## Layout
 
