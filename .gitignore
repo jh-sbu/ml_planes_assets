@@ -1,0 +1,13 @@
+# Blender recovery and autosave files
+*.blend1
+*.blend2
+*.blend3
+*.blend@
+
+# Blender temporary files
+*.blend.lock
+*.blend.tmp
+
+# Platform metadata
+.DS_Store
+Thumbs.db
